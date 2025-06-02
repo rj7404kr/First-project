@@ -41,4 +41,6 @@ Learn QUERY and Apps Script for future dashboards
 CREATER-RAJNI KUMARI
 
 USERNAME-rj7404kr
+🌐 GitHub Repository
 
+https://github.com/rj7404kr
